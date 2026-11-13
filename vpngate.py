@@ -69,7 +69,7 @@ DEFAULT_EDGE_HOSTS = [
     "cfsaas.080112.xyz:443",
     "cdn.aneko.ink:443",
     "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
+    "spark74.cf.090227.xyz",
     "ctsg.cfyx.aliyun.20237737.xyz:443",
     "china-unicom.cname.cloudflare.468123.xyz:443",
 ]
